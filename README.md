@@ -1,3 +1,5 @@
+SimpleChat
+===
 Very simple chat program by George Luna
 
 Usage: server [servername] [port number]
